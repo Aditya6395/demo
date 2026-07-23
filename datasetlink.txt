@@ -1,0 +1,2 @@
+Dataset Path : c:\Users\hunny\Downloads\student_dropout.csv
+Colab Link : c:\Users\hunny\OneDrive\Desktop\colab_py\student.ipynb - Colab (Himanshu).lnk
