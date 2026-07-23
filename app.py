@@ -72,5 +72,5 @@ student_dropout_app = gr.Interface(
 
 student_dropout_app.launch(
         server_name = "0.0.0.0",
-        server_port = 7860
+        server_port=int(os.environ.get("PORT", 7860))
 )
